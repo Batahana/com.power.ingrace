@@ -1,0 +1,847 @@
+<resources>
+    <string name="app_name">com.power.ingrace</string>
+    <string name="menu_home">\n</string>
+    <string name="menu_slideshow">\n</string>
+    <string name="menu_gallery" />
+    <string-array name="songTitle">
+        <item>Mutsvene Mutsvene Mwari wesimba</item>
+        <item>Kudzai Mambo ano Utsvene</item>
+        <item>Imi mose muri pasi</item>
+        <item>Mwari muri zuva redu</item>
+        <item>Ngatimukudzei Mwari</item>
+        <item>Mukudzei iye Mwari</item>
+        <item>Jehovha una masimba</item>
+        <item>Wakasika zvinhu zvose</item>
+        <item>Ndinoshamiswa Kwazvo</item>
+        <item>Zadzisa chirevo chako</item>
+        <item>Baba une simba rose</item>
+        <item>Uyai Vakristu</item>
+        <item>Farai vatendi mangwanani ano</item>
+        <item>Hosana wokudenga</item>
+        <item>Rumbidzai vanhu mose!</item>
+        <item>Mununuri wedu</item>
+        <item>Kristu Imanueri!</item>
+        <item>Tarirai mudzione</item>
+        <item>Uri mupenyu Muponisi</item>
+        <item>Watakura kuipa Jesu</item>
+        <item>Tsitsi hedzi dzamira dzoga</item>
+        <item>Uri Mwari Muponisi</item>
+        <item>Ngatitende kunaJesu</item>
+        <item>Changamire Muponisi</item>
+        <item>N\'anga huru yava pedyo</item>
+        <item>Tine Chipo chakakomba</item>
+        <item> Iro zita raJesu</item>
+        <item>Jesu, iwe uri nzira</item>
+        <item>Mununuri ndinomuda</item>
+        <item> Jesu ndinokuda M’ponisi wangu</item>
+        <item> Kristu Wamuka nhasi! Wamuka kwazvo</item>
+        <item>Tinofara nhasi</item>
+        <item>Wakamuka Ishe Jesu</item>
+        <item>Ndinobva kwamuri, ndinoenda kudenga</item>
+        <item>Mweya Mutsvene waMwari</item>
+        <item>Simudza kufunga kwedu</item>
+        <item>Tine dama rako Mwari</item>
+        <item>Dzidzisai vadzidzisi</item>
+        <item>Riripo tsime rizere</item>
+        <item>Paimba yeGwayana raMwari</item>
+        <item>Ishe ndinzwe nokufara</item>
+        <item>Ndinochema Ishe Mwari!</item>
+        <item>Jesu ndanga ndakurasa</item>
+        <item>Uya mwoyo wangu</item>
+        <item>Mwari ndiri murombo</item>
+        <item>Baba ndiri mwana wako</item>
+        <item>Rakanaka iro zuva</item>
+        <item>Una vanhu vako Mwari</item>
+        <item>Mweya wangu uno Muponisi</item>
+        <item>Tiri vawadzani tiri vawadzani</item>
+        <item>Fara iwe m’Kristu</item>
+        <item>Fambai Vatendi, fambai kurwa</item>
+        <item>Ndanzwa izwi rako</item>
+        <item>Rukuru ruponiso</item>
+        <item>Vazhinji vanayo nhaka</item>
+        <item>NGANDIBEREKE mapudzi</item>
+        <item>URWO rutendo rukuru</item>
+        <item>SIPITI retsitsi nengoni</item>
+        <item>MUFUDZI ndiye Jehovha</item>
+        <item>NDITARIRE nokufara</item>
+        <item>TIMUTSIRE Ishe</item>
+        <item>NDITUNGAMIRE , Jehovha</item>
+        <item>ISABATA nhasi Ishe</item>
+        <item>ISHE taungana</item>
+        <item>ZVATAPINDA Ishe wedu</item>
+        <item>TAURA nesu Ishe wedu</item>
+        <item>FAMBA mangwanangwana</item>
+        <item>BABA wedu wokudenga</item>
+        <item>WAKATORA chipapata</item>
+        <item>MUVIRI wangu wofa</item>
+        <item>KWASARA makore</item>
+        <item>WAUYA! Wauya! Mucheki mukuru</item>
+        <item>MUMANZI uri kudenga</item>
+        <item>CHINHU chinotyisa kwazvo</item>
+        <item>MUSI wehasha nokutya</item>
+        <item>PAM’SORO pakudenga</item>
+        <item>PAKUDENGA kuna Baba</item>
+        <item>DOMBONDIPA meso ndione</item>
+        <item>JERUSAREMA , musha wangu</item>
+        <item>NZVIMBO yakanaka</item>
+        <item>NGUVA yakanakisisa</item>
+        <item>NDINOFARA kuti Baba wedu</item>
+        <item>AMAI navana</item>
+        <item>NDIROPAFADZE Jesu</item>
+        <item>JESU , unoshevedza vaduku</item>
+        <item>NHASI ndinofara ini</item>
+        <item>NDOUYA kuna Jesu</item>
+        <item>CHIRIKO chikomo kure</item>
+        <item>MUFUDZI ndiropafadze</item>
+        <item>NDOZVIISA pana Jesu</item>
+        <item>MUMWE ariko pam’soro:</item>
+        <item>WATI iwe Baba wedu</item>
+        <item>MUKA , mweya wangu, famba</item>
+        <item>MUMWE musi ava mauro</item>
+        <item>MANGWANANA zvinhu zvose</item>
+        <item>NDINOKURUMBIDZA iwe</item>
+        <item>ISHE iwe Wakandichengeta</item>
+        <item>MWARI Baba uve nesu</item>
+        <item>MUPONISI tinokurumbidza</item>
+        <item>GARA neni izuva radoka</item>
+        <item>UTIROPAFADZE , Mwari</item>
+        <item>NGONI dzaKristu M’ponisi</item>
+        <item>SIMUKAI Jesu</item>
+        <item>NDIANI pane zamba</item>
+        <item>MTSVENE , m’tsvene, m’tsvene</item>
+        <item>TENZI , taungana muno mumba yenyu</item>
+        <item>BABA wedu tinofara</item>
+        <item>BABA wedu mwakazviita</item>
+        <item>Mukovi wazvo zviro zvose</item>
+        <item>RADOKA zuva, garai neni, Tenzi</item>
+        <item>ZVINO kwakuparadzana</item>
+        <item>IMWI , muri Mwari mwenga</item>
+        <item>MWARI Mambo wevamambo</item>
+        <item>MWARI hweutsvene</item>
+        <item>UYANYI , maKristu, uyanyi nerufaro</item>
+        <item>M’PONESI Wakaita mabasa misi yese</item>
+        <item>MWATAKURA kuipa Jesu</item>
+        <item>PATYO nem’chinjiko ndipo ndinogara</item>
+        <item>PAMUCHINJIKO paKalvari</item>
+        <item>KRISTU Tenzi wakamuka, Haleluya</item>
+        <item>INGIROSI dzinoimba</item>
+        <item>MWEYA M’tsvene muri Mwari</item>
+        <item>UYAI , Mweya wakachena</item>
+        <item>NHASI ngatimutondere</item>
+        <item>MURAPI ari pano, chiremba wokudenga</item>
+        <item>MUNOITA wani imwi</item>
+        <item>URI Kutambudzikirenyiko?</item>
+        <item>INZWA mweya wangu, Muponesi</item>
+        <item>WAGADZIRA nhasi here</item>
+        <item>UYANYI , mwese mune nyota</item>
+        <item>UYA hako kuna Jesu</item>
+        <item>NDINOUYA nemasoko erudo</item>
+        <item>NDOMUTEVERA , Tenzi Jesu</item>
+        <item>JESU Kristu ndiM’ponesi</item>
+        <item>OMWARI , ndiri pasi pano</item>
+        <item>NDAZWA Tenzi wandidana</item>
+        <item>NENI handikurasai ngekuti wapinduka</item>
+        <item>RUKURU ruponeso, rwaTenzi wedenga</item>
+        <item>NGERUTENDO rukuru</item>
+        <item>NDAONA rwizi rwakanaka</item>
+        <item>TORA zita rake Jesu</item>
+        <item>HAKUNA hama kupinda Jesu</item>
+        <item>HAKUNA zita sera Jesu</item>
+        <item>MUKRISTU ari mukomborerwi</item>
+        <item>CHINYARARA , mwoyo wangu, Jesu ndiye Mwari</item>
+        <item>BABA wedu wakatsidza</item>
+        <item>NDITUNGAMIRENYI , Baba</item>
+        <item>JESU ndishamwari wedu</item>
+        <item>NAMATANYI , vanamati</item>
+        <item>KUITA basa rake pano kusi kuda kwedu</item>
+        <item>BABA , ndinoshama kwazvo</item>
+        <item>ITAI , M’ponesi izvo munoda</item>
+        <item>JESU , muri M’ponesi</item>
+        <item>UNGATORA hako pasi</item>
+        <item>MWARI , Baba wangu, Ndinoona vanhu</item>
+        <item>BABA wangu, ndinodisa</item>
+        <item>MUSANDIPFUURA , Jesu, ndinochema ini</item>
+        <item>MWARI muri Samasimba</item>
+        <item>BABA , tinounza zvipo</item>
+        <item>HAMA dzangu dzevatendi, tisanete isu</item>
+        <item>NGATIITE zvakanaka</item>
+        <item>FAMBANYIWO , majoni</item>
+        <item>NGATIENDE , vadikani</item>
+        <item>KWESE kwese tinoona</item>
+        <item>MUZUNDE renyu, Baba</item>
+        <item>KUEDZA kwazosvika</item>
+        <item>ZANO chiro chakanaka</item>
+        <item>MWARI wakaudza, izvo unokusha</item>
+        <item>KWANGA kune m’kadzi kare</item>
+        <item>VANHU vese vakanaka vanotaura diko</item>
+        <item>NDOFAMBA kune umwe musha</item>
+        <item>APO toropito yake Mwari inorira kwazvo</item>
+        <item>PASI pano tinochema</item>
+        <item>TOENDA kune musha wedu</item>
+        <item>NDOFAMBA , ndofamba, ndosuva kudenga</item>
+        <item>KUNE nzwimbo yakanaka</item>
+        <item>KUDENGA kwakanaka kupinda pasi pano</item>
+        <item>KUNE nyika kudenga raTenzi</item>
+        <item>UKAMA hweuKristu</item>
+        <item>BIBLE Dzvene ngeraMwari, Bhuku renyu</item>
+        <item>TENZI , takavaka umba yenyu</item>
+        <item>KARE Mwari wakasika</item>
+        <item>TIRI pano pamwe tese</item>
+        <item>JESU unondida, Bible rinodaro</item>
+        <item>JESU unondida, Bible rinodaro</item>
+        <item>APO Jesu anouya kotora varume</item>
+        <item>HATINA musha panyika</item>
+        <item>Chinjikano ndirero</item>
+        <item>Ndinosimuda SHE</item>
+        <item>Tarirai kune nyika uko</item>
+        <item>Mambo Jesu watidaidza</item>
+        <item>Dyara Mangwanani, mbeu dzakanana</item>
+        <item>Kudza Jehovha, Mwari ane simba</item>
+        <item>Vakafara vano urombo</item>
+        <item>baba munotipa zvipo</item>
+        <item>Nguva yakanakisisa</item>
+        <item>Mudi womweya wangu</item>
+    </string-array>
+    <string-array name="songNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>131</item>
+        <item>132</item>
+        <item>133</item>
+        <item>134</item>
+        <item>135</item>
+        <item>136</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+        <item>148</item>
+        <item>149</item>
+        <item>150</item>
+        <item>151</item>
+        <item>152</item>
+        <item>153</item>
+        <item>154</item>
+        <item>155</item>
+        <item>156</item>
+        <item>157</item>
+        <item>158</item>
+        <item>159</item>
+        <item>160</item>
+        <item>161</item>
+        <item>162</item>
+        <item>163</item>
+        <item>164</item>
+        <item>165</item>
+        <item>166</item>
+        <item>167</item>
+        <item>168</item>
+        <item>169</item>
+        <item>170</item>
+        <item>171</item>
+        <item>172</item>
+        <item>173</item>
+        <item>174</item>
+        <item>175</item>
+        <item>176</item>
+        <item>177</item>
+        <item>178</item>
+        <item>179</item>
+        <item>180</item>
+        <item>181</item>
+        <item>182</item>
+        <item>183</item>
+        <item>184</item>
+        <item>185</item>
+        <item>186</item>
+        <item>187</item>
+        <item>188</item>
+        <item>189</item>
+        <item>190</item>
+        <item>191</item>
+        <item>192</item>
+        <item>193</item>
+        <item>194</item>
+        <item>195</item>
+        <item>196</item>
+        <item>197</item>
+
+    </string-array>
+    <string-array name="songDetails">
+        <item>
+            1.MUTSVENE, Mutsvene, Mwari wesimba!\n\n
+                Mangwana mangwana toimba kwauri;\n\n
+                Mutsvene, Mutsvene, wetsitsi namasimba!\n\n
+                Mwari wengoni, Mwari Mutsvene!\n\n
+                \n
+                2. Mutsvene, Mutsvene! Vanokurumbidza\n\n
+                Vanhu vako vose kunewe kudenga;\n\n
+Nengirozi dzose pachigaro chako\n\n
+Dzinopfugama mberi kwauri.\n\n
+\n
+3.Mutsvene, Mutsvene! vanhu verima,\n\n
+Vanhu vakaipa havakuone;\n\n
+Uri oga M’tsvene hapasisina mumwe,\n\n
+Una masimba nezvirokwazvo.\n\n
+\n
+4.Mutsvene, Mutsvene! Mwari wesimba!\n\n
+Anokurumbidza mabasa ako ose.\n\n
+Mutsvene, Mutsvene, wetsitsi nemasimba!\n\n
+Mwari wengoni, Mwari Mutsvene!\n\n
+        </item>
+        <item>
+            \n
+            1.KUDZAI Mambo, ano utsvene;\n\n
+Ari kudenga ana masimba;\n\n
+Ndiye nhowo yedu yakarekare;\n\n
+Chigaro chake chakakurumbidzwa.\n\n
+\n
+2.Imbai masimba nengoni dzake,\n\n
+Ari kudenga nenguwo chena;\n\n
+Hasha dzake dzose dzinotinhira,\n\n
+Anofamba zvake pachamupupuri.\n\n
+\n
+3.Ana masimba, wakaisika\n\n
+Nyika nezvinhu zvose zvirimo,\n\n
+Wakaitsigira nomurairo,\n\n
+Wakaikombera nemvura yose.\n\n
+\n
+4.Kufudza kwako kusingarehwe;\n\n
+Kuri pamhepo napakupenya,\n\n
+Kuri pamakomo napamakan’a,\n\n
+Kuri pane mvura napane dova.\n\n
+\n
+5.Isu vaduku hatina simba,\n\n
+Tinotarira chete kwauri;\n\n
+Tsitsi dzako dzese dzisingaperi,\n\n
+Hama yakanaka nomununuri.\n\n
+\n
+6.Una masimba norudo rwose:\n\n
+Dzinokuimbira hondo dzose kudenga\n\n
+Nesuwo venyika tinokuimbira,\n\n
+Tino kurumbidza kusingaperi.\n\n
+        </item>
+        <item>
+            \n
+           1.IMI mose muri pasi,\n\n
+Imbai kuna Jehovha:\n\n
+Kurumbidzai mumutende;\n\n
+Uyai norufaro kwaari.\n\n
+\n
+2.Tinoziva kuti J’ovha\n\n
+Ndiye Mwari wechokwadi;\n\n
+Tiri bara rehwai dzake\n\n
+Anotipa kudya kwedu.\n\n
+\n
+3.Pindai suwo guru rake;\n\n
+Muswedere kuna Mambo;\n\n
+Tsimutsai mazvi enyu,\n\n
+Makafanira kudaro.\n\n
+\n
+4.Ndiye Mwari wakanaka,\n\n
+Tsitsi dzake dzakakomba;\n\n
+Rudo nechokwadi chake\n\n
+Hachingatipinde isu.\n\n
+        </item>
+        <item>
+            \n
+            1.MWARI muri zuva redu,\n\n
+Rinopenya pauzuru;\n\n
+Asi mweya ungaone\n\n
+Paunozofamba napo.\n\n
+\n
+2. Mwari, muri nhovo yedu,\n\n
+Hatidzityi hondo dzedu;\n\n
+Dzose dzinokundwa nemi,\n\n
+Tigouya nokufara.\n\n
+\n
+3.Munotipa ngoni dzenyu,\n\n
+Munotipa noutswene;\n\n
+Munopa vanonamata,\n\n
+Munopa makomborero.\n\n
+\n
+4.Makomborero makuru,\n\n
+Makomborero ewedenga,\n\n
+Aripo avanofunga\n\n
+Kuti vanodiswa nemi.\n\n
+        </item>
+        <item>
+
+        </item>
+        <item>
+            Dombondipa meso ndione,
+            Pauzuru kudenga;
+            Ndivaone vano utsvene, Vanofara kunaShe.
+
+2.
+Zviya zvavaiva panyika Vaichema misodzi; Vaimanikwa nokuedzwa Muedzi achiedza.
+
+3.
+Ndakaona negwara rake, Ndikabvunza, ”Makadii?” Ndiyeyo wanga watifira, Wanga wafira isu.
+
+4.
+Vakaona negwara rake, Raenda paupenyu; Vakafamba, pagwara rake, Vazorora kudenga.
+
+5.
+Ngaarumbidzwe M’tungamiri Zvaatitungamirira; Kusashaike muteveri. Panero gwara rake.</item>
+        <item>1.
+Nditarire nokufara Ishe wangu Ndiwe wanga wandifira, Ishe wangu. Makasika denga renyu Waburuka denga rako, Uchisiya upenyu hwako, Ishe wangu.
+
+2.
+Ndandigere mune rima Ishe wangu; Nda’ndiende panono rufu, Ishe wangu Dzakauya nhume dzako, Dzandinzwisa dama rako, Dzandiudza tsitsi dzako, Ishe wangu.
+
+3.
+Ngandinzwiswe ngoni dzako, Ishe wangu; Ndive muponiswa wako, Ishe wangu! Zvakaipa</item>
+        <item>1.
+Mweya wangu uno Muponisi Ndakasunungurwa; Musununguri ngandininiswe, Ndichagamuchirwasu?
+
+CHORUS
+Ndoda, ndoda, ndoda, Mwari muyamuri uri wangu, Ndakatengwa neropa raIshe, Ndavawake chose.
+
+2.
+Nengoni ndichagamchira tsitsi, Rudo rwako Kristu, Rwaukunda moyo wangukwazvo, Ndichavimba newe.
+
+3.
+Unoziva kusasimba kwangu, Ndotya kurasika, Asi iwe urisimba rangu, Unondipa simba.
+
+4.
+Hongu Ishe, tipe isu tose Ngoni dzako nhasi, Nezvinobva pamoyo tichiti; ‘Ndichava waKristu.
+
+5.
+Vakauya vamwe vachibvunza; ‘Tingapone here?’ ‘Hongu ndinoda muponisiwe.’ Nesu tinod</item>
+        <item>Ndinoshamiswa kwazvo \n
+            Namabasa makuru \n
+            Akaiitiwa nemi, \n
+            Ose anorumbidzwa ;\n
+            Ukuru hwenyu Mwari \n
+            Hunoshamisa kwazvo.\n
+            \n\n
+            Kana ndarangrira \n
+            Mabasa okudenga. \n
+            Kana ndrangira \n
+            Mabasa apanyika, \n
+            Inobuda misodzi \n
+            Kana ndafunga iwe.\n
+            \n\n
+            Mwari Vatatumumwe,\n
+            Itai kuti tikude, \n
+            Nokuti wakatida,\n
+            Makazotipa Jesu, \n
+            Watipa Mweya wako \n
+            Wokutipupurira.\n
+            \n\n
+            Rumbidzai iwe denga!\n
+            Rumbidzai iwe nyika! \n
+            Rumbidzai iwe gungwa! \n
+            Nesu ngatirumbidze!\n
+</item>
+        <item>1.
+Gara neni izuva radoka Rima rinosvika; gara neni! Vamwe vayamuri vakatadza. Ishe muyamuri, gara neni.
+
+2.
+Ndinokutsvaka nenguva dzose; Ngoni dzako dzakunda muidzi. Unoziva kunditungamira; Parima, pachena, gara neni.
+
+3.
+Handityi kana uripedyo; Nhamo hairemi, handichemi; Handine nhamu naiko kufa. Ndokunda kana ugere neni.
+
+4.
+Ndiratidze, Iwe uri woga; Ndivhenekere kuti ndione. Kuedza kunogouya zvino; Mu’penyu murufu, gara neni.
+
+</item>
+        <item>Hymn 91
+Tune 8.4.8.4.8.8.8.4.
+
+1.
+Mumwe ariko pam’soro;
+Anotida!
+Rudo rwake rwaakakomba:
+Anotida!
+Hama dzedu dzinotiza
+Dzimwe dzinotitambudza;
+Haana kutinyengedza:
+Anotida!
+
+2.
+Kumuziva ndoupenyu:
+Anotida!
+Wakatipa zvinhu zvose:
+Anotida!
+Tanga tiri kure naye,
+Wakatitenga neropa;
+Wakatiisa kudenga;
+Anotida!
+
+3.
+Jesu ndiShamwari wedu:
+Anotida!
+Anoda kutifadzisa:
+Anotida!
+Mwoyo yedu inomuda
+Yoda kushovedzwa naye
+Zvorikwazvo nechokwadi
+Anotida!
+
+4.
+Toregererwa zvakaipa:
+Anotida!
+Togokunda hondo dzedu:
+Anotida!
+Anotipa zvipo zvose,
+Anoda kutinakira,
+Achatipa noutsvene:
+Anotida!</item>
+        <item>Hymn 82
+Tune 10.10.10.10.
+
+1.
+Ndinofara kuti Baba wedu
+Wareva rudo rwake rukuru,
+Parugwaro rwake rwakanaka,
+Wakandiudza Jesu wandida.
+
+CHORUS
+Ndinofara Jesu wandida
+Anondida, anondida;
+Ndinofara Jesu wandida,
+Ini anondida.
+
+2.
+Kana ndichimukanganwa Iye,
+Asi anogondiyeuchid za,
+Zvino kwaari ndinodzokera,
+Ndofunga kuti Jesu wandida.
+
+3.
+Jesu anondida ini kwazvo
+Kuti wandipa upenyu hwake;
+Kutadza kwangu wakakufira
+Ndoziva kuti Jesu wandida.
+
+4.
+Mwoyo wangu uno Muyamuri,
+Ndinotenda Jesu Mununuri,
+Zvino ndinogomubatiri ra,
+Nokuti ndonzwa Jesu wandida.</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+
+    </string-array>
+</resources>
